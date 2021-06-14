@@ -6,6 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Tour of Heroes';
-  body = 'This is where I will insert interactive elements for user to add or delete list items. Coming Soon!'
+  title = 'Tour of Store';
+  body = 'Come buy or window-shop our wares. We have excellect selections of novelty items. Coming Soon!'
+  homeButton = 'Home'
 }
